@@ -1,0 +1,240 @@
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.1\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\bin\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljubo\Desktop\sudoku1.2\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\sudoku1.3\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku zadnje\sudoku1.3\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.4\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.5\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\sudoku1.6\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.exe
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.xml
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.pdb
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.exe
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.pdb
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.xml
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\ResolveAssemblyReference.cache
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Form1.resources
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Resources.resources
+E:\sudoku\sudoku zadnje\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\bin\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+D:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.exe
+D:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.xml
+D:\Users\ljubo\Desktop\Sudoku_Novo1.0\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo1.1\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo1.1.17\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.1\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\bin\Debug\sudoku.xml
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljubo\Desktop\Sudoku_Novo_Radi_1.1 - Copy\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Sudoku_Novo_Radi_1.2 - Copy\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.exe
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.xml
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.pdb
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.exe
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.pdb
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\bin\Debug\sudoku.xml
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\dev\Desktop\VSProjekti\Sudoku Sve\Copy of Sudoku_Novo_Radi_1.4\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\dev\Desktop\Sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\dev\Desktop\Sudoku\sudoku\obj\Debug\sudoku.xml
+C:\Users\dev\Desktop\Sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\bin\Debug\sudoku.xml
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljstijepovic\Desktop\Sudoku-master\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\bin\Debug\sudoku.exe
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\bin\Debug\sudoku.xml
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.Sudoku.resources
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku-master\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.xml
+C:\Users\ljstijepovic\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.xml
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\bin\Debug\sudoku.xml
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.Sudoku.resources
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.Resources.resources
+C:\Users\dev\Documents\Visual Studio 2013\Projects\Sudoku\sudoku\obj\Debug\sudoku.vbproj.GenerateResource.Cache
